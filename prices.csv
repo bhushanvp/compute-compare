@@ -1,0 +1,6 @@
+label,price_inr,notes
+M4 Air 16GB,,Use price of the equivalent desktop (Mac mini) you would deploy
+M3 Pro 18GB,,Older generation; use resale or closest current equivalent
+M4 Pro 36GB,,Use Mac mini M4 Pro (or current Pro mini) price
+Jetson Orin NX 16GB,,Rename to your exact Jetson; include carrier board + PSU
+RTX 4060 PC,,Rename to your exact GPU; include full PC cost for a fair server comparison
